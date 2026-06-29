@@ -1,1 +1,1 @@
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/konxx)](https://githubroast.dev/u/konxx)
+[![GitHub Roast](https://githubroast.dev/api/card/konxx)](https://githubroast.dev/u/konxx)
